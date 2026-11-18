@@ -36,5 +36,3 @@ C
 ## Disclaimer
 
 Attempt the subject yourself before reading any solution. Understanding socket programming, `select()`, and non-blocking I/O is essential to passing this exam.
-
-The exam gives you the same subject repeatedly until you pass or time runs out.
