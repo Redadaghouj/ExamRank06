@@ -6,7 +6,7 @@ Solution for the 1337 Coding School Exam Rank 06, focused on implementing a non-
 
 | Subject | Description | Tester |
 | --- | --- | --- |
-| mini\_serv | TCP chat server — multiple clients, message broadcasting, client identification and connection/disconnection handling | tester.py |
+| mini\_serv | TCP chat server — multiple clients, message broadcasting, client identification and connection/disconnection handling | [tester.py](tester.py) |
 
 ## Key Concepts
 
